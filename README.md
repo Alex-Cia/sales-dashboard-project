@@ -91,24 +91,24 @@ This project was developed as part of the "Introduction to Python & Apps" course
 sales-dashboard-project/
 │
 ├── app/
-│   └── dashboard.py             # 🌐 Streamlit app entry point
+│   └── dashboard.py             # Streamlit app entry point
 │
 ├── data/
-│   └── CloudNova_Sales_Data_2015_2024.csv  # 📊 Source sales dataset
+│   └── CloudNova_Sales_Data_2015_2024.csv  # Source sales dataset
 │
 ├── analysis/
-│   ├── explore_data.py          # 🧪 Exploratory data analysis script
-│   ├── summary.csv              # 📄 Generated KPIs from analysis
-│   └── *.png                    # 📈 Static charts from EDA
+│   ├── explore_data.py          # Exploratory data analysis script
+│   ├── summary.csv              # Generated KPIs from analysis
+│   └── *.png                    # Static charts from EDA
 │
 ├── docs/
-│   ├── dashboard_demo.gif       # 🎥 Embedded dashboard demo (for README)
-│   ├── *.png                    # 📷 Screenshots of dashboard
-│   └── project-story.md         # 📚 Case study and business story
+│   ├── dashboard_demo.gif       # Embedded dashboard demo (for README)
+│   ├── *.png                    # Screenshots of dashboard
+│   └── project-story.md         # Case study and business story
 │
-├── requirements.txt             # 📦 Python package dependencies
-├── .gitignore                   # 🚫 Ignored files/folders
-└── README.md                    # 📘 Main GitHub README
+├── requirements.txt             # Python package dependencies
+├── .gitignore                   # Ignored files/folders
+└── README.md                    # Main GitHub README
 ```
 
 ---
