@@ -12,8 +12,6 @@ ENV/
 # Streamlit-specific
 .streamlit/config.toml
 
-# Data files (can be added manually)
-*.csv
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
